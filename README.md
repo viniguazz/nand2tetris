@@ -1,7 +1,7 @@
 # nand2tetris
 A repo dedicated to the assembly of a Hack computer (from logic gates to high level programming).
 
-## HEADS-UP: this is an ongoing project
+**HEADS-UP: this is an ongoing project**
 
 As the subtitle suggests, this repo contains my solutions to all the sets of assignments present in the Nand2tetris course, created by Noam Nisan and Shimon Schocken, professors of the Hebrew University of Jerusalem. 
 
